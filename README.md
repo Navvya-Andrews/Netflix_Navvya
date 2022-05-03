@@ -1,2 +1,3 @@
 # Netflix_Navvya
-Netflix clone
+Netflix clone using react JS and Firebase -
+https://netflix-clone-navvya.netlify.app/
